@@ -1,5 +1,6 @@
 # MaterialPokedex
 React project developed with the material design standards from Google as of 2019
+Test the project for yourself! https://rudypflores.github.io/MaterialPokedex/
 
 ## A Pokedex Made with Material Design and React!
 This web applications has support for all existing pokemon collected through the REST API known as "PokeAPI".
